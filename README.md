@@ -1,7 +1,7 @@
 ### Hi there, I'm [Marlon!](https://www.marlonluan.com.br) 👋.
 
+<br />
 
-<br/>
 <a href="https://twitter.com/MarlonLuan">
   <img align="left" alt="MarlonLuan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -14,6 +14,8 @@
 <a href="https://www.instagram.com/MarlonLuan">
   <img align="left" alt="MarlonLuan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
+<br />
 
 <br />
 
