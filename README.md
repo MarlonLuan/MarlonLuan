@@ -25,8 +25,6 @@
 
 *************
 
-<br />
-
-#### Thank You-🙏🏼
+#### Thank You 🙏🏼
 
 ⭐️ From [MarlonLuan](https://github.com/MarlonLuan)
